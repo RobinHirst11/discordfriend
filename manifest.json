@@ -1,0 +1,13 @@
+{
+  "manifest_version": 1,
+  "name": "Discord Invite Manager",
+  "version": "1.0",
+  "description": "Manage your Discord invites",
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
